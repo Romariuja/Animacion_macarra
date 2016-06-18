@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<elements source="Stage (Stage.exe) version 12.1.1 build 10534 2015-07-30 21:18:12" version="1211" build="10534">
+ <element id="1" elementName="Drawing" elementFolder="Drawing" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="24" elementName="Drawing" elementFolder="Drawing.24" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="25" elementName="Drawing_1" elementFolder="Drawing_1" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="27" elementName="Risco_personaje" elementFolder="Risco_personaje" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="28" elementName="pelo" elementFolder="pelo" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="29" elementName="boca" elementFolder="boca" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="30" elementName="ojos" elementFolder="ojos" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="31" elementName="cabeza" elementFolder="cabeza" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="40" elementName="Fondo_1_redux" elementFolder="Fondo_1_redux" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="41" elementName="Fondo3_redux" elementFolder="Fondo3_redux" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="42" elementName="Fondo2_redux" elementFolder="Fondo2_redux" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="43" elementName="Trolltunga" elementFolder="Trolltunga" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="45" elementName="cielo" elementFolder="cielo.45" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+</elements>
